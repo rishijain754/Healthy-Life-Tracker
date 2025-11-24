@@ -4,14 +4,14 @@ A simple, user-friendly Python application to help you track your daily health g
 
 ## 📋 Table of Contents
 
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [How It Works](#how-it-works)
-- [File Structure](#file-structure)
-- [Contributing](#contributing)
-- [License](#license)
+- #features
+- #requirements
+- #installation
+- #usage
+- #how-it-works
+- #file-structure
+- #contributing
+- #contact
 
 ## ✨ Features
 
