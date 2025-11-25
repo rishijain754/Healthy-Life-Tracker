@@ -19,7 +19,7 @@ A simple, user-friendly Python application to help you track your daily health g
 - Track multiple health metrics:
   - 💧 Water intake (liters)
   - 😴 Sleep duration (hours)
-  - 🏃 Exercise time (minutes)
+  - 🏃 Exercise time (hours)
   - 📚 Study time (hours)
 - Automatic calculation of running averages
 - Goal validation to ensure realistic targets
